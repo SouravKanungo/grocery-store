@@ -1,4 +1,4 @@
-# grocery-store
+# Grocery-store
 
 Website for Online Grocery Store
 
