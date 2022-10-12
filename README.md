@@ -1,7 +1,3 @@
-# Grocery-store
-
-Website for Online Grocery Store
-
 # Online Grocery Store Website Template 
 
 #### A landing page template for a Online Grocery Store. It employs the use of HTML, CSS and Javascript to build it.
